@@ -1,0 +1,29 @@
+* {
+    background-color: aquamarine;
+    border: 2cm;
+    text-align: center;
+    text-overflow: clip;
+    border-color: black;
+    cursor: crosshair;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    color: brown;
+}
+
+h3 {
+    color: darkblue;
+}
+
+h4 {
+    color: crimson;
+}
+
+img {
+    color: aquamarine;
+    background-color: aquamarine;
+}
